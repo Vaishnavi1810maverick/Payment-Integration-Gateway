@@ -1,0 +1,28 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+html{
+    background-color: black;
+}
+.navbar-brand{
+font-family: 'Reggae One', cursive;
+}
+a:link {
+  text-decoration: none;
+}
+img{
+  width: 50%;
+margin-top: 3rem;
+  margin-left: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+button{
+  display: inline;
+}
+.title{
+  font-size: 3rem;
+  font-family: 'Reggae One', cursive;
+    color: white;
+}
